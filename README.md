@@ -68,3 +68,10 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+
+### Credit
+
+Create a React app with Vite and deploy it on GitHub
+https://medium.com/@badreddine.boudaoud21/create-a-react-app-with-vite-and-deploy-it-on-github-48b82e19f821
+(if there is dist folder instead of build folder, change “deploy”: “gh-pages -d build” to “deploy”: “gh-pages -d dist”)
+(the point Update the vite.config.js file)
