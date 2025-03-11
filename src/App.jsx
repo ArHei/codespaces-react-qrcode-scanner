@@ -74,7 +74,7 @@ const App = (props) => {
 
         <Html5QrcodePlugin
             fps={10}
-            qrbox={300}
+            qrbox={250}
             disableFlip={false}
             rememberLastUsedCamera={false}
             qrCodeSuccessCallback={onNewScanResult}
